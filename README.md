@@ -24,8 +24,17 @@ Berikut ini merupakan jalannya program kasir. Dari mulai awal sampai akhir.
 2. Memasukkan jumlah jenis barang yang dibeli.<br/>
 ![alt text](https://github.com/Aden87/document-project1/blob/main/jumlah_barang.PNG?raw=true)
 
-3.Memasukkan nama, quantity, dan harga barang.<br/>
+3. Memasukkan nama, quantity, dan harga barang.<br/>
 ![alt text](https://github.com/Aden87/document-project1/blob/main/masukkan_barang.PNG?raw=true)
 
-4. Tampilan jika semua barang telah diinput dan tidak ada kesalahan inputan pembeli.<br/>
+4. Tampilan jika semua barang telah diinput dan tidak ada kesalahan inputan pembeli. Maka akan langsung menampilkan struk belanja.<br/>
 ![alt text](https://github.com/Aden87/document-project1/blob/main/jika_barang_benar.PNG?raw=true)
+
+5. Melakukan pengubahan barang jika saat ingin mengubah barang dari daftar pembelian.<br/>
+![alt text](https://github.com/Aden87/document-project1/blob/main/ubah_barang.PNG?raw=true)
+
+6. Melakukan hapus barang jika ingin menghapus barang dari daftar pembelian.<br/>
+![alt text](https://github.com/Aden87/document-project1/blob/main/hapus_barang.PNG?raw=true)
+
+7. Melakukan penambahan barang jika ingin menamnah barang dari daftar pembelian.<br/>
+![alt text](https://github.com/Aden87/document-project1/blob/main/tambah_barang.PNG?raw=true)
