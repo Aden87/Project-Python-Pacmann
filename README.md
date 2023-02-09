@@ -38,3 +38,5 @@ Berikut ini merupakan jalannya program kasir. Dari mulai awal sampai akhir.
 
 7. Melakukan penambahan barang jika ingin menamnah barang dari daftar pembelian.<br/>
 ![alt text](https://github.com/Aden87/document-project1/blob/main/tambah_barang.PNG?raw=true)
+
+**Author Copyright (c) 2023 Dennis Miftahul Huda**
