@@ -10,7 +10,7 @@ Project kali ini adalah membuat aplikasi kasir sederhana menggunakan python yang
 # Panduan Menggunakan Program
 Program ini berekstensi .ipynb atau jupyter notebook. Bisa membuka program menggunakan Google Colab, Microsoft Visual Studio, atau aplikasi yang mendukung file .ipynb.
 Untuk menggunakan program ini:
-1. Download file Final_Project_Python_1.ipynb
+1. Download file Python_1.ipynb
 2. Import file tersebut menggunakan aplikasi yang compatible
 
 # Alur Program Kasir
